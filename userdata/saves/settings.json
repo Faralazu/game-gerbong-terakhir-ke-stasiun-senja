@@ -1,0 +1,12 @@
+{
+  "resolution": [
+    1280,
+    720
+  ],
+  "fullscreen": false,
+  "bgm_volume": 0.75,
+  "sfx_volume": 0.85,
+  "show_director_hud": false,
+  "persona_cutin_fx": true,
+  "slow_cozy_sway": true
+}

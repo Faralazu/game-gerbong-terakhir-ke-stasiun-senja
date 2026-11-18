@@ -1,0 +1,56 @@
+[
+  {
+    "id": "title_screen",
+    "title": "Menu Utama: Track 99",
+    "module": "src.scenes.title_screen",
+    "class_name": "TitleScreenScene",
+    "target_minutes": 0.5,
+    "enabled": true,
+    "notes": "Layar judul Persona dengan opsi mulai, lanjut, atau preview fajar"
+  },
+  {
+    "id": "gerbong_5_intro",
+    "title": "Gerbong 5: Keheningan & Efek WOW",
+    "module": "src.scenes.gerbong_5_intro",
+    "class_name": "Gerbong5IntroScene",
+    "target_minutes": 4.5,
+    "enabled": true,
+    "notes": "Sketsa B&W -> Tekan PLAY Walkman -> Shockwave Senja"
+  },
+  {
+    "id": "gerbong_4_childhood",
+    "title": "Gerbong 4: Taman Bermain Masa Kecil",
+    "module": "src.scenes.carriage_story_scene",
+    "class_name": "CarriageStoryScene",
+    "target_minutes": 10.0,
+    "enabled": true,
+    "notes": "Bima Kecil & pesawat kertas (Kaset SENJA + Waveform Tuner)"
+  },
+  {
+    "id": "gerbong_3_burnout",
+    "title": "Gerbong 3: Ruang Tunggu & Ekspektasi",
+    "module": "src.scenes.carriage_story_scene",
+    "class_name": "CarriageStoryScene",
+    "target_minutes": 10.0,
+    "enabled": true,
+    "notes": "Nadia & beban ekspektasi (Kaset HUJAN & DETAK ala Persona)"
+  },
+  {
+    "id": "gerbong_2_crossroads",
+    "title": "Gerbong 2: Persimpangan Penyesalan",
+    "module": "src.scenes.carriage_story_scene",
+    "class_name": "CarriageStoryScene",
+    "target_minutes": 10.0,
+    "enabled": true,
+    "notes": "Bayangan Raka & penerimaan diri (Kaset HUJAN)"
+  },
+  {
+    "id": "gerbong_1_dawn",
+    "title": "Gerbong 1 & Masinis: Stasiun Fajar",
+    "module": "src.scenes.carriage_story_scene",
+    "class_name": "CarriageStoryScene",
+    "target_minutes": 10.0,
+    "enabled": true,
+    "notes": "Senja, All-Out Resonance Kaset FAJAR & Peron Stasiun Fajar"
+  }
+]

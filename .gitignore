@@ -1,0 +1,24 @@
+# Python virtual environments & bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts (tidak perlu masuk repo)
+dist/
+build/
+.build_tmp/
+*.spec
+_asset_vault/
+
+# File sementara & log crash lokal per pengguna
+userdata/temp/
+userdata/logs/last_crash.txt
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

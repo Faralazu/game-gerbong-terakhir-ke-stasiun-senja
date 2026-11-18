@@ -1,0 +1,6 @@
+# Pastikan batch launcher Windows selalu menggunakan CRLF meski diunduh via GitHub ZIP
+*.bat text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf

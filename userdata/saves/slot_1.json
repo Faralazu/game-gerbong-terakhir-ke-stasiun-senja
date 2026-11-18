@@ -1,0 +1,20 @@
+{
+  "slot": "slot_1",
+  "current_scene": "title_screen",
+  "resume_scene": "gerbong_5_intro",
+  "collected_cassettes": [
+    1
+  ],
+  "cassette_unlocked": [
+    1
+  ],
+  "active_cassette": 0,
+  "elapsed_total_seconds": 0.0,
+  "harmonized_carriages": [],
+  "inspected_props": [],
+  "completed_minigames": [],
+  "seen_cg": [],
+  "ticket_stubs": 0,
+  "ending_reached": false,
+  "notes": {}
+}
